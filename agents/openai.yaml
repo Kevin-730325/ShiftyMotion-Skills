@@ -1,0 +1,4 @@
+interface:
+  display_name: "ShiftyMotion Skills"
+  short_description: "参考片精细复刻、丝滑运镜与分层光效，支持 AE 工程和网页动效，保留真实 UI"
+  default_prompt: "使用 $shifty-motion 分析参考并制作丝滑 UI 动效，沿用目标品牌和真实素材，按需求选择 AE 或网页实现，校准镜头、交互、光效与声音并交付可用成片或预览。"

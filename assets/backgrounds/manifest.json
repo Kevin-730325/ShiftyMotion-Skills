@@ -1,0 +1,160 @@
+{
+  "count": 15,
+  "origin": "User-provided background collection; lossless WebP encoding with original resolution and identical decoded RGBA pixels.",
+  "preview_only": [
+    "contact-sheet.jpg",
+    "reference-overview.webp"
+  ],
+  "backgrounds": [
+    {
+      "id": "BG01",
+      "name": "Pearl Dot Grid",
+      "file": "01-pearl-dot-grid.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "e2cee117c41114f12e3d642ce68f929d9102ad5632163fbe77671b2dbaff6ec0",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG02",
+      "name": "Charcoal Dot Grid",
+      "file": "02-charcoal-dot-grid.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "b4a97790e72ea700dfe2a21518158edde8a18b123259cb8feed9f04a6be9bc3b",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG03",
+      "name": "Lime Atmosphere",
+      "file": "03-lime-atmosphere.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "817c04267e8898cc7e1bbbb852c5af319b58e0132fc158e09492d9d8dfe973b2",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG04",
+      "name": "Pearl Pastel Glow",
+      "file": "04-pearl-pastel-glow.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "4e6d3c29f9d596133649392a19cc89016102574a10d57056192a2e15536e231b",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG05",
+      "name": "Dark Ambient",
+      "file": "05-dark-ambient.webp",
+      "width": 1920,
+      "height": 1080,
+      "type": "static-raster",
+      "sha256": "0f7bcbc744bfda14e3665b62a0968e0b13b73afb44681324a847212980de0ff0",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG06",
+      "name": "Lime Soft Glow",
+      "file": "06-lime-soft-glow.webp",
+      "width": 1920,
+      "height": 1080,
+      "type": "static-raster",
+      "sha256": "f53380b3e23b562654d82b8a446c3f6c15cd890e6354866310d1c0e4b5597cf7",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG07",
+      "name": "Graphite Fine Grid",
+      "file": "07-graphite-fine-grid.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "678723764c502c7669d84f478ee51828505102d5d6e1c2e2ff9d5be9480258cc",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG08",
+      "name": "Ice Blue Grid",
+      "file": "08-ice-blue-grid.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "2a3774d7b7a98df1d9821e1922b9c63f910dc0e20d6eb2c1be46ce82a7d1a144",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG09",
+      "name": "Obsidian Edge Light",
+      "file": "09-obsidian-edge-light.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "5210534ca3beb831eff564be1cda756de150b02260500550ccfe761301043ed2",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG10",
+      "name": "Dark Glass Stripes",
+      "file": "10-dark-glass-stripes.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "3ae410f82ae009d45911c5ada4970befce92435d4c96c1c250a9e1295af11819",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG11",
+      "name": "Iridescent Cloud",
+      "file": "11-iridescent-cloud.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "ca62e3075e07873cf2610b6505a29c702e780c7afdedbe59595b48a0ec1a1a7d",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG12",
+      "name": "Teal Particle Wave",
+      "file": "12-teal-particle-wave.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "510cecdefda6c66bb8bd3f80ff7f18ed9f252beff2e884d2983634da318a5017",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG13",
+      "name": "Violet Light Ribbon",
+      "file": "13-violet-light-ribbon.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "d47b47c61b5d09e7832a305f6ab6b35a1b54235a014e9cb8acdb7fdc0ab2d9e2",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG14",
+      "name": "Pearl Depth Dots",
+      "file": "14-pearl-depth-dots.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "f5a36816e32b53a7301db4cd1cff2a17dd84b29576293da6cc1818442c56b607",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    },
+    {
+      "id": "BG15",
+      "name": "Ice Glass Folds",
+      "file": "15-ice-glass-folds.webp",
+      "width": 1672,
+      "height": 941,
+      "type": "static-raster",
+      "sha256": "397d119450df8eb8f7bf1cfda28faae952d2e67d2c8a54f7adb3c87aeb215d4b",
+      "suggested_use": "主体叠加后检查对比；动画需额外制作"
+    }
+  ]
+}
