@@ -39,6 +39,7 @@ UI Demo Motion v3.2 是面向 AI Agent 的 UI 动效制作技能包。你提供�
 在支持技能调用的 Agent 中选择 **ui-demo-motion**，或明确让它读取本包的 `SKILL.md`。可直接使用下面的模板：
 
 ```text
+例子：
 请使用 ui-demo-motion 制作一支 UI 动效视频。
 
 参考：附件视频的前 10 秒，尽量匹配构图、节奏和转场。
@@ -83,8 +84,6 @@ skills/ui-demo-motion/
 └── scripts/          # 联系表、试听目录和预览服务脚本
 docs/media/           # README 演示视频和预览
 ```
-
-本仓库不包含完整 kling-ui-kit；用于其他产品时，提供对应产品素材即可。真实 SVG、原生文本与位图会分别处理，不把截图当成矢量。
 
 ## 来源与使用说明
 
